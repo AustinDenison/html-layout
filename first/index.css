@@ -1,0 +1,28 @@
+.header {
+    width: 100vw;
+    height: 100px;
+    background: rgb(85, 82, 82);
+}
+
+.left {
+    width: 100px;
+    height: 100vh;
+    background: red;
+    float: left;
+    margin: 0 auto;
+}
+
+.right {
+    width: 100px;
+    height: 100vh;
+    background: blue;
+    float: right;
+    margin: 0 auto;
+}
+
+.footer {
+    width: 100vw;
+    height: 100px;
+    background: #000;
+    margin-top: 600px;
+}
